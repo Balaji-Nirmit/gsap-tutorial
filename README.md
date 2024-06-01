@@ -90,3 +90,10 @@ defined by one parameter d:
 
 ![image](https://github.com/Balaji-Nirmit/gsap-tutorial/assets/132046259/4dbd78f7-e547-4ed2-a676-5c1a59d2212c)
 
+![image](https://github.com/Balaji-Nirmit/gsap-tutorial/assets/132046259/b78f9dc0-7dd6-4b60-b34f-0caaae5138ce)
+
+here we are using two things <strong>attr</strong> using which we can change the attributes of a tag and <strong>ease</strong>
+
+<h3>ease</h3>
+In GSAP (GreenSock Animation Platform), the "ease" property is used to define the easing behavior of animations. Easing controls the rate of change of an animation over time, affecting how the animation accelerates or decelerates.
+<p>use this link to work with different eases <a href="https://gsap.com/docs/v3/Eases/"> click here for eases</a></p>
