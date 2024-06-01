@@ -33,5 +33,5 @@ what happens is that when we use scroltrigger the animation completes itself eve
 <p>also using scrub animation is become bidirectional that is it works in reverse manner when going up</p>
 <h3>pin</h3>
 pin property taked true or false only and when used trigger will take parent element of the element on which gsap animation has to be applied.
-
+<p>pin does one very interesting this is that it stops the scrolling until some animation is completed</p>
 <p>take the following aniamtion as example</p>
