@@ -96,4 +96,4 @@ here we are using two things <strong>attr</strong> using which we can change the
 
 <h3>ease</h3>
 In GSAP (GreenSock Animation Platform), the "ease" property is used to define the easing behavior of animations. Easing controls the rate of change of an animation over time, affecting how the animation accelerates or decelerates.
-<p>use this link to work with different eases <a href="https://gsap.com/docs/v3/Eases/"> click here for eases</a></p>
+<p>use this link to work with different eases <a href="https://gsap.com/docs/v3/Eases/" target="_blank"> click here for eases</a></p>
