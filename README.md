@@ -16,3 +16,7 @@ repeat will repeat the animation
 <p>if n=negative then infinite</p>
 <p>but it always animate in one direction</p>
 so to make it work bidirectionally set <strong>yoyo:true</strong>
+<h2>time line</h2>
+when a time line is created the all the gsap created using that timeline will work in sequence one after another 
+
+![image](https://github.com/Balaji-Nirmit/gsap-tutorial/assets/132046259/2c69c015-af43-4e3e-8958-4e6e1b756e5c)
