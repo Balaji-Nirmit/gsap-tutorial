@@ -21,6 +21,9 @@ when a time line is created the all the gsap created using that timeline will wo
 
 ![image](https://github.com/Balaji-Nirmit/gsap-tutorial/assets/132046259/2c69c015-af43-4e3e-8958-4e6e1b756e5c)
 
+![image](https://github.com/Balaji-Nirmit/gsap-tutorial/assets/132046259/0bbd3170-aa86-43e6-a53e-547e451258fb)
+
+
 <hr>
 
 <h2>Scrolltrigger</h2>
