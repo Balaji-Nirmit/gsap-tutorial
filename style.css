@@ -1,0 +1,178 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: gilroy;
+}
+html,
+body{
+    height: 100%;
+    width: 100%;
+}
+body{
+    background-color: #000;
+}
+body::-webkit-scrollbar {
+    display: none;
+}
+#box1{
+    height: 300px;
+    width: 300px;
+    background-color: crimson;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#box2{
+    height: 300px;
+    width: 300px;
+    background-color: beige;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top:0;
+    left:0;
+}
+#page2,#page3{
+    height: 100vh;
+    width: 100vw;
+}
+#page2 h1{
+    font-size: 2vw;
+    color: white;
+}
+#box3,#box4,#box5{
+    height: 100px;
+    width: 100px;
+}
+#box3{
+    background-color: red;
+}
+#box4{
+    background-color: yellow;
+}
+#box5{
+    background-color: blue;
+}
+/* top navigation menu */
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+    height: 60px;
+}
+#navright{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width:500px;
+}
+/* scrolltrigger.html */
+#pagea,#pageb,#pagec,#paged{
+    height: 100vh;
+    width: 100vw;
+    background-color:rgb(247, 247, 208);
+}
+#a,#b{
+    height: 200px;
+    width: 200px;
+    background-color: crimson;
+}
+
+#pagec h2{
+    color: black;
+    font-size: 30vw;
+}
+/* svg.html */
+#pagee{
+    height: 50vh;
+    width: 100vw;
+    background-color: beige;
+}
+
+/* project.html */
+#main{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#cursor{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: beige;
+    position: fixed;
+    opacity:0;
+    scale:1;
+    z-index: 9;
+    mix-blend-mode: difference;
+}
+#image{
+    height: 60vh;
+    width: 80vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: beige;
+    position: relative;
+}
+#image img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+#overlay{
+    background-color: transparent;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: 10;
+}
+#navigationmenu i{
+    color:white;
+    font-size: 3vw;
+}
+#navigationmenu h2{
+    color:white;
+    font-size: 4vw;
+}
+#navigation{
+    position: absolute;
+    height: 100vh;
+    width: 30vw;
+    background-color: rgba(68, 67, 67, 0.493);
+    z-index: 11;
+    display: flex;
+    justify-content: space-between;
+    transform: translateX(-100%);
+    opacity: 0;
+}
+#menuitems{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+#open{
+    position: absolute;
+}
+#text{
+    width: 100vw;
+    height: 20vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#text h1{
+    color:white;
+    font-size: 10vw;
+}
+
+#text span{
+    display: inline-block;
+}
