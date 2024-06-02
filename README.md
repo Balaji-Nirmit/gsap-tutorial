@@ -1,5 +1,4 @@
-<a href="https://balaji-nirmit.github.io/gsap-tutorial/" target="_blank">webpage external link
-</a>
+<a href="https://balaji-nirmit.github.io/gsap-tutorial/" target="_blank">webpage external link</a>
 
 # gsap-tutorial
 we have 2 option here to start with gsap 
